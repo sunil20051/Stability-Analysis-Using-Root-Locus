@@ -3,7 +3,6 @@
 To analyse the stability of the system having open loop transfer function, G(S)=K/(S(S+5)(S+10)) using root locus and verify it using MATLAB. 
 ## Apparatus Required:
 Computer with MATLAB software
-
 ## Theory:
 ![WhatsApp Image 2025-11-03 at 09 52 45_2f8a2c27](https://github.com/user-attachments/assets/ac8fdbc0-ffc0-4c3c-aca9-1de2e87f1b27)
 
